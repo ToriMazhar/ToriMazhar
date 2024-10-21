@@ -13,6 +13,19 @@
 
 ---
 
+### 📝 Тестовые артефакты:
+
+* [Теория тестирования](https://github.com/ToriMazhar/theory)
+* [Техники тест-дизайна](https://github.com/ToriMazhar/design)
+* [Тестовая документация](https://github.com/ToriMazhar/docs)
+* [Тестирование веб-приложения](https://github.com/ToriMazhar/web)
+* [Тестирование API](https://github.com/ToriMazhar/api)
+* [Работа с базами данных](https://github.com/ToriMazhar/database)
+* [Тестирование мобильных приложения](https://github.com/ToriMazhar/mobile)
+* [Работа с git и bash](https://github.com/ToriMazhar/git_bash)
+
+---
+
 ### 📁 Тестовая документация:
 
 <div>
